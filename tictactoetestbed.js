@@ -1,4 +1,4 @@
-///MARC LESSON 1: 
+//first game 
 const TicTacToe = {
     board: null,
     currentPlayer: 0,
